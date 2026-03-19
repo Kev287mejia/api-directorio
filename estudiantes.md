@@ -7,5 +7,6 @@
 
 ---
 ### Firmas Aprobadas:
+- Kevin Mejía
 - **Teacher Dev** | Arquitecto de Software | Nicaragua
 - **Estudiante Git**  |Desarrollador de Software | Nicaragua
